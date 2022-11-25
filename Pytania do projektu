@@ -1,0 +1,11 @@
+1. Czy cały kod musi być działający i gotowy na 01.12?
+
+2. Czyli te 3 punkty są na 01.12
+* Interfejs graficzny -- 2pkt
+* Kod do wykrywania mrugnięć -- 2pkt
+* Synchronizacja zadań -- 1pkt
+
+3. Czym jest synchronizacja zadań?
+
+4. Czy program może mieć jakiekolwiek inne funkcjie niż wybieranie za pomocą mrugania?
+np. jakaś dodatkowa ułatwiająca funkcja przy wciskaniu klawisza lub kliknięcia w button.
