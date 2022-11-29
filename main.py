@@ -5,6 +5,8 @@ import time
 import random
 from PIL import Image, ImageTk, ImageFilter
 
+# Tabela rozkładu:
+
 def ClickLetter():
     print("Hey!")
 
