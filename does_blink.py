@@ -1,3 +1,5 @@
+# Funkcja do aktywacji po mrugnięciu
+
 czestotliwosc = [2,4,5]
 counter = -1
 
